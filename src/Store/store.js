@@ -7,6 +7,4 @@ const store = configureStore({
   },
 })
 
-const afon = 'afon'
-
 export default store;
